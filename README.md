@@ -84,7 +84,7 @@ plt.axis('off')
 plt.show()
 ```
 ### OUTPUT:
-![OUTPUT](1.jpg)
+![OUTPUT](1.png)
 ## II)Perform handwritting detection in an image
 ### PROGRAM:
 ```py
@@ -125,7 +125,7 @@ detect_handwriting(image_path)
 ```
 ### OUTPUT:
 
-![OUTPUT](2.jpg)
+![OUTPUT](2.png)
 
 
 ## III)Perform object detection with label in an image
@@ -161,4 +161,4 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ### OUTPUT:
 
-![OUTPUT](3.jpg)
+![OUTPUT](3.png)
