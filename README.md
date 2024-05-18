@@ -9,10 +9,22 @@ Anaconda - Python 3.7
 ## Algorithm:
 ## I)Perform ROI from an image
 ### Step1:
-Import necessary packages 
+Import necessary packages
+
 ### Step2:
 Read the image and convert the image into RGB
-### Step3:# project
+
+### Step3:
+Display the image
+
+### Step4:
+Set the pixels to display the ROI
+
+### Step5:
+Perform bit wise conjunction of the two arrays using bitwise_and
+
+### Step6:
+Display the segmented ROI from an image
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
 i) Extract ROI from  an image.
